@@ -1,4 +1,3 @@
 MNDOT2ArcMap
 ============
-
-Extract station data and plot it directly into Arcmap
+This is an old repository. Go to kevish/MNDOT2ArcMap for the real project
